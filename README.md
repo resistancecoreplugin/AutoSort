@@ -296,9 +296,6 @@ in the Software without restriction...
 - **Email:** support@yourserver.com
 
 ## 📈 Downloads
-
-[![Downloads](https://img.shields.io/github/downloads/resistancecoreplugin/AutoSort/total.svg)](https://github.com/resistancecoreplugin/AutoSort/releases)
-[![Stars](https://img.shields.io/github/stars/resistancecoreplugin/AutoSort.svg)](https://github.com/resistancecoreplugin/AutoSort/stargazers)
 [![Forks](https://img.shields.io/github/forks/resistancecoreplugin/AutoSort.svg)](https://github.com/resistancecoreplugin/AutoSort/network)
 
 ---
