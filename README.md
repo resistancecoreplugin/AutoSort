@@ -297,9 +297,9 @@ in the Software without restriction...
 
 ## 📈 Downloads
 
-[![Downloads](https://img.shields.io/github/downloads/yourusername/AutoSort/total.svg)](https://github.com/yourusername/AutoSort/releases)
-[![Stars](https://img.shields.io/github/stars/yourusername/AutoSort.svg)](https://github.com/yourusername/AutoSort/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/AutoSort.svg)](https://github.com/yourusername/AutoSort/network)
+[![Downloads](https://img.shields.io/github/downloads/resistancecoreplugin/AutoSort/total.svg)](https://github.com/resistancecoreplugin/AutoSort/releases)
+[![Stars](https://img.shields.io/github/stars/resistancecoreplugin/AutoSort.svg)](https://github.com/resistancecoreplugin/AutoSort/stargazers)
+[![Forks](https://img.shields.io/github/forks/resistancecoreplugin/AutoSort.svg)](https://github.com/resistancecoreplugin/AutoSort/network)
 
 ---
 
